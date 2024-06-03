@@ -1,1 +1,1 @@
-This Repository include all the tak projects assigned related to web devwlopment
+This Repository include all the task projects assigned related to web devwlopment.
